@@ -5,7 +5,7 @@
 Este projeto é uma aplicação web desenvolvida para a disciplina de Linguagem de Programação e Paradigmas. O sistema simula um processo de check-in em tempo real para um evento acadêmico, utilizando uma arquitetura orientada a eventos com Node.js e Socket.IO.
 
 **Desenvolvido por:**
-- **Nome:** [SEU NOME COMPLETO AQUI]
+- **Nome:** [Leonardo Luis Abelino e Carlos Oliveira]
 - **GitHub:** @[SEU-USUARIO-DO-GITHUB-AQUI]
 
 ---
