@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF--8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Controle do Evento</title>
+    <link rel="stylesheet" href="/css/style.css">
+    </head>
+<body>
+    <header>
+        <h1>Painel do Administrador</h1>
+    </header>
+
+    <main>
+        <h2 id="statusEvento">Evento não iniciado</h2>
+        
+        <button id="btnIniciar">Iniciar Check-in</button>
+        <button id="btnEncerrar" disabled>Encerrar Check-in</button>
+    
+        <h3>Lista de Presença (<span id="totalPresentes">0</span>)</h3>
+        <ul id="listaPresentes">
+            </ul>
+    </main>
+        
+    <footer>
+        <p>Desenvolvido por: [Seu Nome Completo]</p>
+    </footer>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/js/admin.js"></script>
+</body>
+</html>
