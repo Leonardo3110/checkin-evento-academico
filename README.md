@@ -6,7 +6,7 @@ Este projeto é uma aplicação web desenvolvida para a disciplina de Linguagem 
 
 **Desenvolvido por:**
 - **Nome:** [Leonardo Luis Abelino e Carlos Oliveira]
-- **GitHub:** @[SEU-USUARIO-DO-GITHUB-AQUI]
+- **GitHub:** @[Leonardo3110]
 
 ---
 
